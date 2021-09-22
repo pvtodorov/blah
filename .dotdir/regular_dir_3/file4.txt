@@ -1,0 +1,1 @@
+a regular file in a regular dir within a dotdir!
